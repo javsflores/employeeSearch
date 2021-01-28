@@ -1,0 +1,15 @@
+.headers {
+  display: grid;
+  grid-template-columns: 2fr 2fr 1fr;
+  grid-column-gap: 1px;
+  font-size: 24px;
+  border: solid 1px black;
+  background-color: black;
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+.header {
+  background-color: white;
+  padding: 4px;
+}
